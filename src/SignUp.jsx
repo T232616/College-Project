@@ -48,16 +48,6 @@ const SignUp = () => {
             </FormControl>
 
             <FormControl className="col-9 mx-auto ">
-              <Input
-                type="date" 
-                className="inputField Date"
-                id="my-input"
-                aria-describedby="my-helper-text"
-                required
-              />
-            </FormControl>
-
-            <FormControl className="col-9 mx-auto ">
               <InputLabel className="inputLabel" htmlFor="my-input">
                 Username
               </InputLabel>
