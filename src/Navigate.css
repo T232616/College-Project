@@ -1,0 +1,11 @@
+.main_section .sign {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: bold;
+}
+.main_section .signed {
+   background-color:rgba(0,0,0,0.04)
+}
+.main_section .sign{
+padding:1rem;
+}
